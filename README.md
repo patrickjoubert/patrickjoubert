@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickjoubert
 - 👀 I’m interested in building great companies!
-- 🌱 I’m currently learning EVS and sustainable energy
+- 🌱 I’m currently learning LLMs to build great AI ;)
 - 💞️ I’m looking to collaborate on building great software 
 - 📫 How to reach me: patrick@beasight.fr
 - 

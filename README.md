@@ -8,7 +8,7 @@ Paris ⇄ San Francisco • patrick@rippletide.com
 
 ## What I’m working on
 - **Rippletide** — enterprise AI agents with deterministic decision-making, guardrails and full explainability.
-- **EVDataCompare** — fleet & EV market intelligence (UK & France).
+- **EVDdecisionCompass** — fleet & EV market intelligence (UK & France).
 - Leveling up on **LLMs, agents, evaluation frameworks, and neuro-symbolic reasoning**.
 
 ## Open to collaborating on

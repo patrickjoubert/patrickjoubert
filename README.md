@@ -2,7 +2,7 @@
 
 Founder & CEO at **Rippletide** — building production-grade, explainable AI agents.  
 Previously: **Recast.AI** (acquired by SAP), **Ponicode** (acquired by CircleCI), **BEAMAP** (acquired by Steria).  
-Paris ⇄ San Francisco • patrick@rippletide.com
+San Francisco ⇄ Paris • patrick@rippletide.com
 
 ---
 
